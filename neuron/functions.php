@@ -1,5 +1,5 @@
 <?php
-	
+	// CSS & JS add
 function nuron_theme_files()
 {
 	wp_enqueue_style('neuron-style',get_stylesheet_uri());
